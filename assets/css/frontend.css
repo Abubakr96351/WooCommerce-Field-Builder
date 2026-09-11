@@ -1,0 +1,22 @@
+.wfb-fields {
+	margin-bottom: 1.5em;
+}
+
+.wfb-fields .wfb-field {
+	margin-bottom: 1em;
+}
+
+.wfb-fields fieldset.wfb-field legend {
+	font-weight: 600;
+	margin-bottom: 0.5em;
+}
+
+.wfb-fields fieldset.wfb-field label {
+	display: block;
+	font-weight: normal;
+	margin-bottom: 0.25em;
+}
+
+.wfb-fields .required {
+	color: #e2401c;
+}

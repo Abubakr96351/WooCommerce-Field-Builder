@@ -1,0 +1,14 @@
+.wfb-options-repeater {
+	margin-top: 8px;
+}
+
+.wfb-options-repeater th,
+.wfb-options-repeater td {
+	padding: 6px 8px;
+}
+
+.wfb-type-settings {
+	margin-top: 16px;
+	padding-top: 16px;
+	border-top: 1px solid #dcdcde;
+}
